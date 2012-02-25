@@ -1,0 +1,13 @@
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\bin\Debug\IPA3.exe
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\bin\Debug\IPA3.pdb
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\MainWindow.baml
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\MainWindow.g.cs
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\App.g.cs
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\IPA3_MarkupCompile.cache
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\IPA3.g.resources
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\IPA3.Properties.Resources.resources
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\IPA3.exe
+c:\users\raphtown\documents\visual studio 2010\Projects\IPA3\IPA3\obj\x86\Debug\IPA3.pdb
